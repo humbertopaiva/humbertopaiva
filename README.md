@@ -1,7 +1,7 @@
-### Olá, sou o 1berto! 👋
+### Olá, sou o dev 1berto! 👋
 
 - 🔭 Atualmente, trabalho como Desenvolvedor Front-End Freelancer e Brand Designer
-- 🌱 Focado em aprender Typescript, Testes Unitários, E2E e outras stacks de front-end- 
+- 🌱 Focado em aprender Typescript, Testes Unitários, E2E e outras stacks de desenvolvimento front-end
 - 📫 Contate-me no email humbertomoreira93@gmail.com
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
