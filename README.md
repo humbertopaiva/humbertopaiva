@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente, trabalho como Desenvolvedor Front-End Freelancer e Brand Designer
 - 🌱 Focado em aprender Typescript, Testes Unitários, E2E e outras stacks de desenvolvimento front-end
-- 📫 Contate-me no email humbertomoreira93@gmail.com
+- 📫 Conheça um pouco mais sobre mim em <a href="https://humbertopaiva.des.br/" target="_blank">humbertopaiva.des.br</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
