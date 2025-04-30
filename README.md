@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Desenvolvedor Frontend Pleno disponível para novos desafios<br>- 🌱 Focado em DevOps, Cloud Architecture e otimização de performance frontend<br>- 📫 +6 anos de experiência no setor digital, com sólida experiência em arquitetura de aplicações<br>- 💡 Especializado em arquiteturas modernas com React, Next.js e TypeScript, combinando expertise técnica com visão de negócios</p>
+<p align="left">- 🔭 Desenvolvedor Fullstack Pleno disponível para novos desafios<br>- 🌱 Focado em Teconlogias como React.JS, Node.js, DevOps, Cloud Architecture e otimização de performance em cloud.<br>- 📫 +6 anos de experiência no setor digital, com sólida experiência em arquitetura de aplicações<br>- 💡 Especializado em arquiteturas modernas com React, Next.js e TypeScript, combinando expertise técnica com visão de negócios</p>
 
 ###
 
