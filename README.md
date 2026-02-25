@@ -62,6 +62,3 @@ Tenho interesse especial por ambientes onde engenharia impacta diretamente cresc
 
 <br />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote" />
-</div>
