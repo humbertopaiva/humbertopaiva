@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Humberto%20Paiva&fontSize=50&animation=fadeIn&theme=dracula" width="100%" />
-</div>
-
 <h1 align="left">Full-Stack Developer | Web Applications | Growth Engineer</h1>
 
 ###
